@@ -1,6 +1,6 @@
-# favorite_places
+# Favorites Places App
 
-A new Flutter project.
+An application for picking places using Google Maps made for Android through Flutter using Dart.
 
 ## Getting Started
 
